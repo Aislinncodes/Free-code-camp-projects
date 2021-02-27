@@ -1,0 +1,36 @@
+body {
+    font-family: Poppins;
+    background-color: #f875c6;
+    color: rgb(247, 217, 174);
+
+}
+#title {
+    text-align: center;
+    font-family: limelight;
+    font-size: 50px;
+    background: linear-gradient(#f875c6, #7efcf1, #d4f63c, #d82c54);
+    border-radius: 5%;
+    padding: 0%;
+    color: palevioletred;
+}
+
+.fleximg {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#image {
+    width: 200px;
+    height:300px;
+    margin-bottom: 15px;
+}
+#img-div {
+    margin: 30px;
+    border-bottom: 5px solid rgb(247, 217, 174);
+}
+
+#tribute-link{
+    text-decoration: none;
+    color: black;
+}
